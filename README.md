@@ -17,7 +17,7 @@ Faço ciência da computação na UFC(Universidade Federal do Ceará)
 
 <p align="center">
   <a href="https://github.com/RobertoSergio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSergio&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSergio&theme=dracula&layout=compact&langs_count=5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSergio&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSergio&theme=dracula&layout=compact&langs_count=5&count_private=true&token=githubpagetoken">
   </a>
 </p>
